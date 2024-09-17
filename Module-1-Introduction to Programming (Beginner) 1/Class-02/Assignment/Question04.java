@@ -1,3 +1,13 @@
+
+/*
+    Problem Description
+    Print the following pattern in output
+    **********
+    *        *
+    *        *
+    **********
+ */
+
 public class Question04 {
     public static void main(String[] args) {
         System.out.println("**********");
@@ -5,5 +15,5 @@ public class Question04 {
         System.out.println("*        *");
         System.out.println("**********");
     }
-    
+
 }
